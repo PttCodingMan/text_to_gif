@@ -7,7 +7,7 @@ on:
       gif_text:
         description: 'Gif to build'
         required: true
-        default: '臣亮言：先帝創業未半，而中道崩殂；今天下三分，益州疲敝，此誠危急存亡之秋也。'
+        default: '🎤徵~主持人'
       gif_frame:
         description: 'Gif frame'
         required: true
